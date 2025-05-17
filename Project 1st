@@ -1,1 +1,34 @@
+(This is a project first work )
 
+Automate a Task Using a Bash Script Create a Bash script using nano myscript.sh, then add the following code: #!/bin/bash; echo "Hello, $(whoami)! The current date and time is: $(date)". Save the file, make it executable with chmod +x myscript.sh, and run it using ./myscript.sh. Modify the script to also display system uptime and disk space usage. Task: Submit the updated script and execution screenshot. 
+
+(This is my Process of work and result )
+
+Here's my  work and result
+
+1.📲 Install Termux From F-Droid
+
+2.🛠️ Update + Setup
+
+''(apt update && apt upgrade -y
+pkg install nano -y
+pkg install coreutils -y   # for uptime, date, df)''
+
+3.✍️ Create Script
+
+''nano myscript.sh''
+and start writing code 
+(
+echo "$(whoami)!"
+echo "$(date)"
+echo "$(uptime -p)"
+echo "Disk usage:"
+df -h   )
+
+4.💾 Save + Run
+
+( chmod +x myscript.sh
+./myscript.sh )
+
+See this is my POC in video ..link below 
+https://drive.google.com/drive/folders/1wypDQwJJAu6oMM2UMdbC0-NLmXGEvRzl?usp=sharing
