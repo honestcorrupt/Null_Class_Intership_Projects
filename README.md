@@ -81,9 +81,9 @@ cat myscript.sh
 ...
     📧 soyamarya96ethical@gmail.com
 
-  ...  🔗 LinkedIn: Soyam Arya
+  ...  🔗 LinkedIn: https://www.linkedin.com/in/soyam-arya-a90356312/
 
-   ... 🌐 GitHub: honestcorrupt
+   ... 🌐 GitHub: https://github.com/honestcorrupt
 
 
 
