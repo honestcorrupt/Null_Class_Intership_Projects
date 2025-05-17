@@ -41,7 +41,7 @@ Each folder contains **source code**, **screenshots**, **video PoCs**, and **doc
 - ✅ Bash script (`myscript.sh`)
 - ✅ Execution screenshot
 - ✅ Output video (`task1.mp4`)
-- ✅ [README for this task](./Project%201st/README.md)
+- ✅ [README for this task](https://github.com/honestcorrupt/Null_Class_Intership_Projects/blob/main/README.md)
 
 ---
 
@@ -78,12 +78,12 @@ cat myscript.sh
 ```
 
 📩 Contact
-
+...
     📧 soyamarya96ethical@gmail.com
 
-    🔗 LinkedIn: Soyam Arya
+  ...  🔗 LinkedIn: Soyam Arya
 
-    🌐 GitHub: honestcorrupt
+   ... 🌐 GitHub: honestcorrupt
 
 
 
